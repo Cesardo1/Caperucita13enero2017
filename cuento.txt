@@ -2,3 +2,4 @@ primera linea de foto del archivo
 segunda linea de foto del archivo
 se va a modificando el archivo
 commit para hacer un push
+COMMIT PARA HACER PULL CON GITHUB
